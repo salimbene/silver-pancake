@@ -1,0 +1,5 @@
+!.gitignore
+server/node_modules
+client/node_modeules
+scripts/scripts
+.boost
